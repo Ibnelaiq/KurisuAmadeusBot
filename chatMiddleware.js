@@ -12,6 +12,10 @@ function init_chat(input,message){
 
     generateResponse(input).then(response => {
 
+        if(response.length == 0 || [""," "].includes(response)){
+            sendMessage(message, getRandomItemFromArray(resp_exceptions["cant_understand"]))
+            return;
+        }
         sendMessage(message,response,false);
         return;
 

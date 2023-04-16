@@ -1,0 +1,14 @@
+{
+    "greetings_input":[
+        "Did you mean to send me a message? I didn't receive any text.",
+        "Is something wrong? I got a notification that you messaged me, but there's no message here.",
+        "I'm sorry, but I don't understand what you're trying to say. Could you please clarify?",
+        "Hmm, it looks like you didn't type anything. Is everything alright?",
+        "I'm not sure what you're expecting me to say in response to a blank message.",
+        "I'm assuming this was an accidental message. No worries, it happens to the best of us!",
+        "Sorry, I'm not a mind reader. I need you to actually send me a message to know what you want to say.",
+        "I'm confused. Did you forget to type your message before sending it?",
+        "I'm not sure what you're trying to accomplish by sending me an empty message.",
+        "I'm here to help you, but I need you to tell me what you need first. Please send me a message with your question or concern."
+    ]
+}
