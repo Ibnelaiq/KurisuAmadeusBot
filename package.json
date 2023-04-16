@@ -1,0 +1,13 @@
+{
+  "name": "Makise Amadeus Kurisu (Discord Bot)",
+  "version": "1.0.07-Alpha.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Ahmed Ali",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  }
+}
